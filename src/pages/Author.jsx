@@ -43,7 +43,7 @@ const Author = () => {
           data-bgimage="url(images/author_banner.jpg) top"
           style={{ background: `url(${AuthorBanner}) top` }}
         ></section>
-        
+
         <section aria-label="section">
           <div className="container">
             <div className="row">
@@ -134,13 +134,6 @@ const Author = () => {
                 </>
               )
             }
-
-            
-
-
-
-              
-
               
             </div>
           </div>
